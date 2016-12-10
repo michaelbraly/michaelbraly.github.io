@@ -1,4 +1,4 @@
-# ABS 2017 PUGET SOUND REGIONAL MASTER SCHEDULE 
+# ABS 2017 Puget Sound Regional Master Schedule 
 
 ## SESSION 1
 
